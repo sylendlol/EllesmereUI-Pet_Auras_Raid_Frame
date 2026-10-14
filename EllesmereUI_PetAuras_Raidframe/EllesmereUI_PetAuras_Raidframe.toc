@@ -1,0 +1,10 @@
+## Interface: 16001, 120000, 120001, 120005, 120007, 120100
+## Title: EllesmereUI |cff0cd29fPet Auras (Raid Frames)|r
+## Notes: Buffs and debuffs on the EllesmereUI Raid Frames raid pet frames. Separate, freely positioned buff and debuff blocks with adjustable icon size, timer, timer size and font, and an option to hide auras with no duration. Works in combat. Settings: Raid Frames > Raid > PET AURAS. Move mode: /parf
+## Author: Custom
+## Version: 1.0.1
+## Dependencies: EllesmereUI, EllesmereUIRaidFrames
+## IconTexture: Interface\AddOns\EllesmereUI\media\eg-logo.tga
+
+PetAurasRaid.lua
+PetAurasRaid_Options.lua
